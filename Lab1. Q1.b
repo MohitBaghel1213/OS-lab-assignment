@@ -5,7 +5,7 @@
 #include<unistd.h> 
 
 
-//b). Implement the fork() system call and print the parent and child ID in C.
+// b). Implement the fork() system call and print the parent and child ID in C.
 
 
 int main() 
