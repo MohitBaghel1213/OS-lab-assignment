@@ -2,6 +2,7 @@
 #include<unistd.h>
 #include<stdlib.h>
 
+/*Q. Demonstrate the Race condition using fork() system call.  */
 int main()
 {
     int j=1;
